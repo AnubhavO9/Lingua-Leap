@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.image2{
+    width: 700px;
+    height: 800px;
+    
+}
+
+button{
+    width: 150px;
+    padding-top: 6px;
+    font-size: larger;
+    border-radius: 10px;
+    border-color: aliceblue;
+  }
+ 
+  .backgroundd{
+      background-color:blanchedalmond
+  }

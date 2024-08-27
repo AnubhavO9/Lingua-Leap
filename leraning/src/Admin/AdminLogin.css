@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.backlogin{
+    background-color: #f4f4f4;
+}
+.imagelogin{
+    width: 25px;
+    height: 25px;
+   background-color: white;
+}

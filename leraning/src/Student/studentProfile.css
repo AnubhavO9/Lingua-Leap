@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.image{
+    width: 180px;
+    height: 180px;
+    
+}
+
+button{
+    width: 150px;
+    padding-top: 6px;
+    font-size: larger;
+    border-radius: 10px;
+    border-color: aliceblue;
+  }
+  .im{
+    width: 30px;
+    height: 30px;
+    float: left;
+  }
+  .backgroundd{
+      background-color:blanchedalmond
+  }

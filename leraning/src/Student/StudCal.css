@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.roundd{
+border-radius: 30px;
+}
+
+.cal-67{
+margin-left: 3%;
+  width: 70vw;
+}

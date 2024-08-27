@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.view{
+    width:20px;
+    height: 20px;
+}
+.backadd{
+    background-color: #f4f4f4;;
+}
+.present{
+    border: 10px solid #b9b5b5;
+    border-radius: 30px;
+
+}
+.backtake{
+    background-color: #23277e;
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.backSTART{
+    background-color: #f4f4f4;
+}

@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.view{
+    width:20px;
+    height: 20px;
+}
+.backadd{
+    background-color: #f4f4f4;;
+}
+

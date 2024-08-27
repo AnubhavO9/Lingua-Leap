@@ -1,0 +1,59 @@
+.Cal-12{
+ 
+  background-color:#F7F2ED;
+
+  margin-top: 8%;
+ 
+}
+
+.but-1{
+  border-radius: 20px;
+  color: aliceblue;
+  height: 20%;
+  width: 10%;
+  background-color: rgb(42, 46, 118)
+}
+
+.but-1:hover{
+  text-decoration: underline;
+}
+.fc .fc-button-group {
+  display: inline-flex;
+  position: relative;
+  vertical-align: middle;
+  width: 19%;
+}
+
+.fc-today-button{
+  margin-left: 6%;
+}
+
+.cal-67{
+  width: 50vw;
+}
+
+.fc .fc-toolbar-title{
+  font-size: x-large;
+  text-align: start;
+}
+
+.fc-toolbar-chunk{
+  width: 40%;
+}
+.langdes
+{
+  border-style: solid;
+  border-radius: 20px;
+  width: 300px;
+  margin-bottom: 30px;
+  height: 50px;
+}
+.fc-today-button
+{
+  /* margin-left: 200px; */
+  width: 100px;
+}
+/* .fc-direction-ltr .fc-toolbar > * > :not(:first-child)
+{
+  margin-left: 3em;
+} */

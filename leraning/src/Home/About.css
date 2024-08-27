@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.back4{
+    background-image: url('../../public/image/about.jpg');
+    background-size: cover;
+    height: 400px;
+ 
+}
+
+.about2{
+    color: #5A4BDA;
+
+}
+.about3{
+    text-align: justify;
+}
+.back7{
+    font-size: 16px;
+    font-family: RedditSans, sans-serif;
+    color: black;
+}
+.aboutheight{
+    height: 470px;
+}

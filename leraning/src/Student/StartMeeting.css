@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.view{
+    width:20px;
+    height: 20px;
+}
+.backadd{
+    background-color: #f4f4f4;;
+}
+
+.meetimage{
+    width: 600px;
+    height: 300px;
+    border: 15px solid #afb29f;
+    border-radius: 30px;
+
+}
+.endmeet{
+    background-color: #23277e;
+    color: white;
+    text-decoration: none;
+   
+    font-size:35px;
+    border-radius: 30px;
+   
+    
+}

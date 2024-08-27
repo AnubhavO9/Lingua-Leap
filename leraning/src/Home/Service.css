@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.featureimage{
+    width: auto;
+    height: 300px;
+}
+.card:hover{
+  box-shadow: 5px 10px 15px rgb(163, 163, 225);
+  margin-left:4px;
+}

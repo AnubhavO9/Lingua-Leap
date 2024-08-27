@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   
+}
+
+.container1 {
+    display: grid;
+    grid-template-areas: 
+        "header header"
+        "aside main";
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: auto 1fr;
+    height: 100vh;
+}
+
+
+aside {
+    grid-area: aside;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 2px 0 4px rgba(0, 0, 0, 0.1);
+    height: 700px;
+    margin-top:5px;
+    margin-right:10px;
+}
+
+aside ul {
+    list-style: none;
+    padding: 0;
+}
+
+aside ul li {
+    margin-bottom: 15px;
+}
+
+aside ul li a {
+    text-decoration: none;
+    color: #080A45;
+    font-size: 16px;
+}
+
+aside h2 {
+    color:#080A45;
+}
+.main1 {
+    grid-area: main;
+    padding: 20px;
+    background-color: #f4f4f4;
+    margin-left: none;
+}
+
+h1, h2 {
+    margin: 0;
+    color: #080A45;
+}
+
+.teacher-grid1 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+    color:#080A45;
+
+}
+
+.teacher-card1 {
+    background-color: #e0e0e0;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;
+    color:#080A45;
+}
+
+.teacher-card1 img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.teacher-card1 h3 {
+    margin: 10px 0 5px 0;
+    font-size: 16px;
+}
+
+.teacher-card1 p {
+    margin: 0;
+    font-size: 14px;
+    color: #555;
+}
+.btn
+{
+    margin-top: 20px;
+}
+.name
+{
+    margin-top: 20px;
+}

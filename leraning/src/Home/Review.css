@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.backreview{
+    background-color: #f4f4f4;
+}
+.imagereview{
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.backcard{
+    background-color: #C3B1E1;
+}
+.content{
+    text-align: center;
+}
+.reviewimage:hover{
+      box-shadow: 5px 10px 25px rgb(143, 36, 169);
+    
+}

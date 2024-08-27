@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.admin_buttonp{
+    border-radius: 10px;
+    font-size: 12px;
+}
+.present{
+    border: 15px solid #b9b5b5;
+    border-radius: 30px;
+
+}
+.logoimage{
+    width: 25px;
+    height: 25px;
+
+}
+.english{
+    width: 230px;
+    height: 180px;
+}
+.stud{
+    background-color: #f4f4f4;
+    border-radius: 30px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    margin-left: 6px;
+}

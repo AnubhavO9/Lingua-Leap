@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.tutor{
+    font-family: Bureau grot condensed, sans-serif;;
+    font-size: 70px;
+    font-weight: 600;
+}
+.tutor_image{
+    margin-top: 20px;
+    margin-left: 150px;
+    width: 500px;
+    height: 300px;
+    margin-bottom: 20px;
+}

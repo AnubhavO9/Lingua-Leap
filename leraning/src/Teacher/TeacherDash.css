@@ -1,0 +1,162 @@
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.mainBody-component-22
+{
+    width: 100%;
+    height: 590px;
+    background-color: #f4f4f4;
+    display: flex;
+}
+.SideBar-component-22
+{
+    width: 20%;
+    height: 100%;
+    background-color: #ffffff;
+    justify-content: space-evenly;
+}
+.Teacher-photo-Sidebar-component-22
+{
+    width:100%;
+    height: 200px;
+    margin-top: 10px;
+}
+.Teacher-photo-component-22
+{
+    width: 50%;
+    height: 50%;
+    /* background-image: url(C:\Users\hp\LinguaLeap\learning\src\Component\teacher.png); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    border-radius: 50%;
+    margin-left: 25%;
+}
+.Teacher-name-component-22
+{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 28.5%;
+}
+.Teacher-name-component-22:hover
+{
+    font-size: 31px;
+    text-decoration: underline;
+}
+.Contents-Sidebar-component-22
+{
+    height: 50%;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.course-component-22,.profile-component-22,.update-calander-component-22,.upload-study-material-component-22,.generate-meeting-link-component-22,.list-of-students-component-22
+{
+    width: 100%;
+    height: 30px;
+    margin-top: 13px;
+    color: #080a45;
+    text-align: center;
+}
+.course-component-22:hover,.profile-component-22:hover,.update-calander-component-22:hover,.upload-study-material-component-22:hover,.generate-meeting-link-component-22:hover,.list-of-students-component-22:hover
+{
+    text-decoration: underline;
+}
+.Main_content-body-component-22{
+    width: 80%;
+    height: 100%;
+}
+.langcontainer1-component-22{
+    width: 100%;
+    justify-content: space-evenly;
+    height: fit-content; 
+    margin-top: 3%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Language1-component-22
+{
+    width: 27%;
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    /* border-style: solid; */
+    /* border-width: 3px;
+    border-color: #080a45; */
+    align-items: center;
+    margin-top: 30px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
+}
+
+.lang-name-component-22
+{
+    width: 150px;
+    height: 39px;
+    background-color: #080a45;
+    border-radius: 30px;
+    margin-left: 65px;
+    margin-top: 55px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 3%;
+    font-size: 17px;
+}
+
+.langcontainer2-component-22
+{
+    width: 27%;
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    margin-top: 30px;
+    align-items: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;;
+}
+.lang-name-add-component-22
+{
+    margin-left: 57px;
+    margin-top: 25px;
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.view-students-component-22
+{
+    width: 250px;
+    height: 30px;
+    margin-left: 22%;
+    margin-top: 3%;
+    display: flex;
+}
+.students-text-component-22
+{
+    color: #080a45;
+    font-size: 20px;
+    padding-top: 1.5%;
+    margin-left: 5%;
+}
+.view-class-component-22
+{
+    width: 225px;
+    height: 30px;
+    margin-left: 22%;
+    margin-top: 3%;
+    display: flex;
+}
+.classes-text-component-22
+{
+    color: #080a45;
+    font-size: 20px;
+    margin-left: 7.8%;
+}
+.view-icon-component-22
+{
+    font-size: 25px;
+    color: #080a45;
+}

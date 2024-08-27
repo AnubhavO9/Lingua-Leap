@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.sidebarr{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+.imagemost{
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+    border-radius: 50%;
+}

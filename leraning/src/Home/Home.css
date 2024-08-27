@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.back3{
+    color: #464bd8;
+    
+}
+.background1{
+    background:linear-gradient(rgba(248, 254, 251, 0.596),#f4f4f4),url('../../public/image/banner.jpg');
+    background-size: cover;
+    
+}

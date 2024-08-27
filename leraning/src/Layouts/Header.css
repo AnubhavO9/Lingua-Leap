@@ -1,0 +1,55 @@
+.weblogo{
+  width:45px;
+  height: 50px;
+}
+.navbar-nav li{
+    padding:0 10px;
+}
+.navbar  link:hover{
+    color: #080A45;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.background
+{
+  
+  background-color: #686868 #f1e8e8;
+  color:black
+}
+.navbar link:hover{
+  text-shadow: 1px 1px grey;
+  text-decoration: underline;
+  color: black;
+
+ 
+
+}
+.height{
+  height: 70px;
+}
+button{
+  border-radius: 0px;
+  
+}
+.backimgnav{
+  background-color: #388da8;
+  border-radius: 30px;
+  font-size: 22px;
+}
+.font{
+  font-family: "Gill Sans", sans-serif;;
+  
+}
+.fonttsize{
+  font-size: 22px;
+  color: black;
+}
+.nav-item{
+  color: black;
+
+}
+.teextblue{
+  color: #5606f5;
+}

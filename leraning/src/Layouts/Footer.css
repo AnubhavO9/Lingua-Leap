@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.background{
+    background-color: #f4f4f4;
+}
+.text{
+   color: #080A45;
+   
+}
+.butn{
+    background-color: #080A45;
+    color: white;
+    text-decoration: none;
+
+}
+.images{
+    width: 20px;
+    height: 20px;
+}
+.textfont{
+    font-size: 12px;
+    font-family: sans-serif;
+}
